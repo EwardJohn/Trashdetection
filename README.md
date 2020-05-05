@@ -15,10 +15,10 @@ a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http
 
 - **version**
    
-_ pytorch 1.1.0
-_ GCC 4.9
-_ CUDA 9.0 CuDNN 7.5.1
-_ requirements.txt
+      pytorch 1.1.0
+      GCC 4.9
+      CUDA 9.0 CuDNN 7.5.1
+      requirements.txt
 
 
 ### Datasets
@@ -33,6 +33,10 @@ The python file is analizytheanchorritio.py in the dataprocessing dir.
 - **visualizing the bbox distribution**
  
 ![image](data/anchordistribute.png)
+
+- **visualizing the bbox distribution**
+
+![image](data/bbox_per_image.png)
 
 - **process the annotations**
 
