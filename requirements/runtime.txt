@@ -1,0 +1,16 @@
+matplotlib
+mmcv>=0.3.1
+# need older pillow until torchvision is fixed
+Pillow==6.2.2
+six
+terminaltables
+torch==1.1.0
+torchvision
+pycocotools==2.0
+scikit-learn>=0.20
+opencv-python>=4.1.1
+imbalanced-learn<0.4,>=0.3.1
+scipy>=1.2.1
+python-dateutil>=2.6.1
+imageio==2.3.0
+
