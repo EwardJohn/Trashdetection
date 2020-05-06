@@ -51,3 +51,7 @@ Use the single data to train the model rather than the ImageNet pre-trained ,but
 
 #### Guided anchor 
 #### BFP in the Libra RCNN
+
+### Effectness
+
+#### Our effectness is up to 0.902 in the validata dataset and 0.896 in the test dataset. 
