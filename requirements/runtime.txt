@@ -4,7 +4,7 @@ mmcv>=0.3.1
 Pillow==6.2.2
 six
 terminaltables
-torch==1.1.0
+torch==1.13.1
 torchvision
 pycocotools==2.0
 scikit-learn>=0.20
